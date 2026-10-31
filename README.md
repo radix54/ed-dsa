@@ -1,4 +1,4 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPL_v3-blue.svg)](LICENSE.md)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE.md)
 [![Tests](https://github.com/radix54/ed-dsa/actions/workflows/test.yml/badge.svg)](https://github.com/radix54/ed-dsa/actions/workflows/test.yml)
 # Edwards-curve Digital Signature Algorithm
 Go implementation of EdDSA.
